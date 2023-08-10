@@ -12,7 +12,7 @@ int main()
       printf("Here ") ;
       if( i == 8 )
       {
-        printf( "This is 8." ) ;
+        printf( "This is 8. " ) ;
       }
     }
     printf( "ok" ) ;
